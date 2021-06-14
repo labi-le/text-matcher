@@ -1,0 +1,22 @@
+{
+  "name": "labile/text-matcher",
+  "require": {
+    "php": ">=8"
+  },
+
+  "require-dev": {
+    "phpunit/phpunit": ">=9.5.5"
+  },
+
+  "authors": [
+    {
+      "name": "labile",
+      "email": "1a6i1e@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Astaroth\\": "src"
+    }
+  }
+}
