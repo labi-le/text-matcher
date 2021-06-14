@@ -4,7 +4,7 @@
 [![Packagist Stars](https://img.shields.io/packagist/stars/labile/text-matcher)](https://packagist.org/packages/labile/text-matcher/stats)
 [![Packagist Stats](https://img.shields.io/packagist/dt/labile/text-matcher)](https://packagist.org/packages/labile/text-matcher/stats)
 
-[Документация на русском языке](https://github.com/labi-le/text-matcher/blob/main/README_RU.md)
+[Документация на русском языке](https://github.com/labi-le/text-matcher/blob/master/README_RU.md)
 
 ## Installation
 
