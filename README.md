@@ -1,6 +1,6 @@
 # text-matcher
 
-[![GitHub license](https://img.shields.io/badge/license-BSD-green.svg)](https://github.com/labi-le/text-matcher/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/badge/license-BSD-green.svg)](https://github.com/labi-le/text-matcher/blob/master/LICENSE)
 [![Packagist Stars](https://img.shields.io/packagist/stars/labile/text-matcher)](https://packagist.org/packages/labile/text-matcher/stats)
 [![Packagist Stats](https://img.shields.io/packagist/dt/labile/text-matcher)](https://packagist.org/packages/labile/text-matcher/stats)
 
