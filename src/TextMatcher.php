@@ -8,6 +8,7 @@ namespace Astaroth;
  */
 class TextMatcher
 {
+    public const STRICT = 0;
     public const CONTAINS = 1;
     public const START_AS = 2;
     public const END_AS = 3;
@@ -15,7 +16,7 @@ class TextMatcher
 
     private static int $similar_percent = 70;
 
-    public function __construct(private string $needle, private string $haystack, public int $validation = 0)
+    public function __construct(private string $needle, private string $haystack, public int $validation = TextMatcher::STRICT)
     {
 
     }
